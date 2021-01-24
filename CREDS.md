@@ -1,3 +1,6 @@
 # Testenterprise
 
-creds: thomas@entreprisetest.com
+creds: 
+
+mail: thomas@entreprisetest.com
+pwd : azertyuiop12345 
